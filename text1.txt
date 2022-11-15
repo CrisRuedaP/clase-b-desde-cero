@@ -1,1 +1,2 @@
 Este es mi primer archivo de Git.
+Añadí otra línea de texto.
